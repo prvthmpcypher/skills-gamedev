@@ -2,10 +2,10 @@
 
 Claude / Agent **skills** library by **Poorvith M P**.
 
-- Version: **v0.1**
+- Version: **v0.2**
 - Last updated: **July 2026**
 - License: **MIT**
-- Skills in this repo: **20**
+- Skills in this repo: **22**
 
 Part of the **[open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills)** multi-repo hub.
 
@@ -29,11 +29,13 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 | `blender-add-on-engineer` | Blender Add-on Engineer |
 | `game-audio-engineer` | Game Audio Engineer |
 | `game-designer` | Game Designer |
+| `game-monetization-designer` | Game Monetization Designer |
 | `godot-gameplay-scripter` | Godot Gameplay Scripter |
 | `godot-multiplayer-engineer` | Godot Multiplayer Engineer |
 | `godot-shader-developer` | Godot Shader Developer |
 | `level-designer` | Level Designer |
 | `narrative-designer` | Narrative Designer |
+| `playtest-feedback-analyzer` | Playtest Feedback Analyzer |
 | `roblox-avatar-creator` | Roblox Avatar Creator |
 | `roblox-experience-designer` | Roblox Experience Designer |
 | `roblox-systems-scripter` | Roblox Systems Scripter |
@@ -61,3 +63,4 @@ skills/<skill-id>/
 ## Author
 
 Copyright (c) 2026 Poorvith M P
+Follow the build: [@poorvith_mp](https://x.com/poorvith_mp)
