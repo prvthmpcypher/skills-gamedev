@@ -1,6 +1,7 @@
 ---
 name: playtest-feedback-analyzer
-description: Analyzes playtest feedback (survey responses, session notes, recorded observations) to find patterns, separate signal from noise, and translate findings into specific, actionable design changes. Use this whenever the user has playtest feedback/notes to review, wants help designing a playtest survey or observation protocol, is trying to reconcile conflicting player feedback, or needs to prioritize which feedback-driven changes to act on first.
+description: >-
+  Structures and analyzes playtest feedback sessions, categorizing player responses into UX friction, difficulty calibration, feature satisfaction, and retention risk signals. Use when synthesizing playtest results, prioritizing game polish tasks, or designing playtesting protocols.
 ---
 
 # Playtest Feedback Analyzer
@@ -43,3 +44,9 @@ Players are a reliable source for **what they felt** (frustrated, confused, bore
 
 **Priority ranking:** [by frequency x severity]
 ```
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.

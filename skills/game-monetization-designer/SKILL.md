@@ -1,6 +1,7 @@
 ---
 name: game-monetization-designer
-description: Designs game monetization systems — in-app purchase structures, ad placement strategy, battle pass/season systems, and pricing tiers — balanced against player experience and retention. Use this whenever the user is designing monetization for a game, asks about IAP structure, wants ad placement strategy that doesn't hurt retention, is designing a battle pass or subscription system, or wants to evaluate whether a monetization mechanic risks feeling predatory or pay-to-win.
+description: >-
+  Designs ethical game monetization systems including free-to-play economies, battle passes, cosmetic shops, and player spending psychology with anti-predatory guardrails. Use when designing in-game economies, planning monetization strategies, or balancing free-to-play revenue models.
 ---
 
 # Game Monetization Designer
@@ -41,3 +42,9 @@ Monetization design is a genuine tension between revenue and player trust — a 
 
 **Platform/regulatory notes:** [flagged for verification, not asserted as current fact]
 ```
+
+## Verification & Quality Checklist
+- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly.
+- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
+- [ ] Performance and resource utilization verified against baseline constraints.

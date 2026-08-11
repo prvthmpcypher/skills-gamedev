@@ -1,1 +1,0 @@
-No static template asset needed — output is an analysis per the SKILL.md format. If the user has a raw data file (CSV of survey responses), the data-analysis skill can help with the underlying number-crunching before this skill interprets it.

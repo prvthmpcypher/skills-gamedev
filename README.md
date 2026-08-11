@@ -1,32 +1,22 @@
 # skills-gamedev
 
-Claude / Agent **skills** library by **Poorvith M P**.
+Game Dev skills collection for Claude Code, Antigravity IDE, and Claude.ai — part of [open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills).
 
-- Version: **v0.2**
-- Last updated: **July 2026**
+- Version: **v2.0**
+- Total skills: **22**
 - License: **MIT**
-- Skills in this repo: **22**
-
-Part of the **[open-claude-skills](https://github.com/prvthmpcypher/open-claude-skills)** multi-repo hub.
 
 ## Install
 
-### Claude Code
 ```bash
-# copy one skill
 cp -R skills/<skill-id> ~/.claude/skills/<skill-id>
-# or project-local
-cp -R skills/<skill-id> .claude/skills/<skill-id>
 ```
 
-### Claude.ai
-Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabilities → Skills**.
-
-## Skill index
+## Skills
 
 | Skill ID | Title |
 |----------|-------|
-| `blender-add-on-engineer` | Blender Add-on Engineer |
+| `blender-add-on-engineer` | Blender Add On Engineer |
 | `game-audio-engineer` | Game Audio Engineer |
 | `game-designer` | Game Designer |
 | `game-monetization-designer` | Game Monetization Designer |
@@ -48,19 +38,3 @@ Zip a single `skills/<skill-id>` folder and upload via **Settings → Capabiliti
 | `unreal-systems-engineer` | Unreal Systems Engineer |
 | `unreal-technical-artist` | Unreal Technical Artist |
 | `unreal-world-builder` | Unreal World Builder |
-
-## Structure
-
-Each skill follows skill-creator conventions:
-
-```text
-skills/<skill-id>/
-├── SKILL.md
-├── references/NOTE.md   # empty tips for future progressive disclosure
-└── assets/NOTE.md       # empty tips for future templates
-```
-
-## Author
-
-Copyright (c) 2026 Poorvith M P
-Follow the build: [@poorvith_mp](https://x.com/poorvith_mp)
