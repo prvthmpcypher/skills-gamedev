@@ -1,7 +1,8 @@
 ---
 name: roblox-avatar-creator
 description: >-
-  Roblox UGC and avatar pipeline specialist - Masters Roblox's avatar system, UGC item creation, accessory rigging, texture standards, and the Creator Marketplace submission pipeline. Use when the user asks about roblox avatar creator, needs this workflow, or requests related deliverables.
+  Builds Roblox UGC and avatar items: accessory rigging, texture standards and Creator Marketplace
+  submission. Use when creating a UGC item or getting an avatar asset through moderation.
 ---
 
 # Roblox Avatar Creator

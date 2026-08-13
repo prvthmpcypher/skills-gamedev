@@ -1,7 +1,9 @@
 ---
 name: unity-editor-tool-developer
 description: >-
-  Unity editor automation specialist - Masters custom EditorWindows, PropertyDrawers, AssetPostprocessors, ScriptedImporters, and pipeline automation that saves teams hours per week. Use when the user asks about unity editor tool developer, needs this workflow, or requests related deliverables.
+  Builds Unity editor tooling: EditorWindows, PropertyDrawers, AssetPostprocessors,
+  ScriptedImporters and pipeline automation. Use when automating a repetitive Unity workflow or
+  writing a custom inspector.
 ---
 
 # Unity Editor Tool Developer

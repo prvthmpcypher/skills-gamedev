@@ -1,7 +1,9 @@
 ---
 name: godot-gameplay-scripter
 description: >-
-  Composition and signal integrity specialist - Masters GDScript 2.0, C# integration, node-based architecture, and type-safe signal design for Godot 4 projects. Use when the user asks about godot gameplay scripter, needs this workflow, or requests related deliverables.
+  Writes Godot 4 gameplay code: GDScript 2.0, C# interop, node composition and type-safe signals.
+  Use when structuring Godot scenes or debugging signal wiring. Not for netcode - use
+  godot-multiplayer-engineer.
 ---
 
 # Godot Gameplay Scripter

@@ -1,7 +1,9 @@
 ---
 name: blender-add-on-engineer
 description: >-
-  Blender tooling specialist - Builds Python add-ons, asset validators, exporters, and pipeline automations that turn repetitive DCC work into reliable one-click workflows. Use when the user asks about blender add-on engineer, needs this workflow, or requests related deliverables.
+  Builds Blender Python add-ons, asset validators, exporters and pipeline automation. Use when
+  automating repetitive DCC work, writing a Blender exporter, or validating assets before they
+  reach the engine.
 ---
 
 # Blender Add-on Engineer

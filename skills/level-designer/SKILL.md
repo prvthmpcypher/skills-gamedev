@@ -1,7 +1,9 @@
 ---
 name: level-designer
 description: >-
-  Spatial storytelling and flow specialist - Masters layout theory, pacing architecture, encounter design, and environmental narrative across all game engines. Use when the user asks about level designer, needs this workflow, or requests related deliverables.
+  Designs level layout, pacing, encounter placement and environmental narrative. Use when blocking
+  out a level, fixing pacing, or planning encounters. Not for mechanics themselves - use
+  game-designer.
 ---
 
 # Level Designer

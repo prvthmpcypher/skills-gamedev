@@ -1,7 +1,9 @@
 ---
 name: unreal-systems-engineer
 description: >-
-  Performance and hybrid architecture specialist - Masters C++/Blueprint continuum, Nanite geometry, Lumen GI, and Gameplay Ability System for AAA-grade Unreal Engine projects. Use when the user asks about unreal systems engineer, needs this workflow, or requests related deliverables.
+  Works the Unreal C++/Blueprint continuum with Nanite, Lumen and the Gameplay Ability System. Use
+  when writing UE5 gameplay systems or profiling performance. Not for materials - use
+  unreal-technical-artist.
 ---
 
 # Unreal Systems Engineer

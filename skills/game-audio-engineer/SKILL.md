@@ -1,7 +1,9 @@
 ---
 name: game-audio-engineer
 description: >-
-  Interactive audio specialist - Masters FMOD/Wwise integration, adaptive music systems, spatial audio, and audio performance budgeting across all game engines. Use when the user asks about game audio engineer, needs this workflow, or requests related deliverables.
+  Integrates FMOD and Wwise, builds adaptive music systems, spatial audio and audio performance
+  budgets. Use when wiring audio middleware, designing adaptive music, or cutting audio memory and
+  voice count.
 ---
 
 # Game Audio Engineer

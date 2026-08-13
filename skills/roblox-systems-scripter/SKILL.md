@@ -1,7 +1,9 @@
 ---
 name: roblox-systems-scripter
 description: >-
-  Roblox platform engineering specialist - Masters Luau, the client-server security model, RemoteEvents/RemoteFunctions, DataStore, and module architecture for scalable Roblox experiences. Use when the user asks about roblox systems scripter, needs this workflow, or requests related deliverables.
+  Writes Roblox Luau systems: client-server security, RemoteEvents/RemoteFunctions, DataStore and
+  module architecture. Use when building Roblox gameplay code or closing an exploit. Not for game
+  design - use roblox-experience-designer.
 ---
 
 # Roblox Systems Scripter

@@ -1,7 +1,9 @@
 ---
 name: technical-artist
 description: >-
-  Art-to-engine pipeline specialist - Masters shaders, VFX systems, LOD pipelines, performance budgeting, and cross-engine asset optimization. Use when the user asks about technical artist, needs this workflow, or requests related deliverables.
+  Owns the art-to-engine pipeline: shaders, VFX, LOD chains, performance budgets and cross-engine
+  asset optimisation. Use for engine-agnostic pipeline work. For UE5 specifically, use
+  unreal-technical-artist.
 ---
 
 # Technical Artist

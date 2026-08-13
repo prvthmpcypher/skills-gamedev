@@ -1,7 +1,9 @@
 ---
 name: unity-multiplayer-engineer
 description: >-
-  Networked gameplay specialist - Masters Netcode for GameObjects, Unity Gaming Services (Relay/Lobby), client-server authority, lag compensation, and state synchronization. Use when the user asks about unity multiplayer engineer, needs this workflow, or requests related deliverables.
+  Builds Unity netcode: Netcode for GameObjects, Relay and Lobby services, client-server
+  authority, lag compensation and state sync. Use when adding multiplayer to a Unity game or
+  debugging desync.
 ---
 
 # Unity Multiplayer Engineer

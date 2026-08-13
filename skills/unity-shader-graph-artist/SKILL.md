@@ -1,7 +1,8 @@
 ---
 name: unity-shader-graph-artist
 description: >-
-  Visual effects and material specialist - Masters Unity Shader Graph, HLSL, URP/HDRP rendering pipelines, and custom pass authoring for real-time visual effects. Use when the user asks about unity shader graph artist, needs this workflow, or requests related deliverables.
+  Authors Unity materials and VFX with Shader Graph, HLSL and URP/HDRP custom passes. Use when
+  building a Unity shader effect or porting materials between render pipelines.
 ---
 
 # Unity Shader Graph Artist

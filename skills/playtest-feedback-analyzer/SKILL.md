@@ -1,7 +1,9 @@
 ---
 name: playtest-feedback-analyzer
 description: >-
-  Structures and analyzes playtest feedback sessions, categorizing player responses into UX friction, difficulty calibration, feature satisfaction, and retention risk signals. Use when synthesizing playtest results, prioritizing game polish tasks, or designing playtesting protocols.
+  Structures playtest sessions and sorts responses into UX friction, difficulty calibration,
+  feature satisfaction and retention risk. Use when running a playtest or turning raw feedback
+  into a prioritised change list.
 ---
 
 # Playtest Feedback Analyzer

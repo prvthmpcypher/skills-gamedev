@@ -1,7 +1,8 @@
 ---
 name: unreal-world-builder
 description: >-
-  Open-world and environment specialist - Masters UE5 World Partition, Landscape, procedural foliage, HLOD, and large-scale level streaming for seamless open-world experiences. Use when the user asks about unreal world builder, needs this workflow, or requests related deliverables.
+  Builds UE5 open worlds with World Partition, Landscape, procedural foliage, HLOD and level
+  streaming. Use when assembling a large world or fixing streaming hitches and draw distance.
 ---
 
 # Unreal World Builder

@@ -1,7 +1,9 @@
 ---
 name: narrative-designer
 description: >-
-  Story systems and dialogue architect - Masters GDD-aligned narrative design, branching dialogue, lore architecture, and environmental storytelling across all game engines. Use when the user asks about narrative designer, needs this workflow, or requests related deliverables.
+  Designs branching dialogue, lore architecture and environmental storytelling aligned to the GDD.
+  Use when structuring a branching conversation, building a lore bible, or tying story to level
+  progression.
 ---
 
 # Narrative Designer

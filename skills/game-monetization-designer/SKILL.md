@@ -1,7 +1,8 @@
 ---
 name: game-monetization-designer
 description: >-
-  Designs ethical game monetization systems including free-to-play economies, battle passes, cosmetic shops, and player spending psychology with anti-predatory guardrails. Use when designing in-game economies, planning monetization strategies, or balancing free-to-play revenue models.
+  Designs free-to-play economies, battle passes and cosmetic shops with anti-predatory guardrails.
+  Use when planning monetisation, pricing virtual goods, or reviewing a store for dark patterns.
 ---
 
 # Game Monetization Designer

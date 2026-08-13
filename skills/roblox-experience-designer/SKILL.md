@@ -1,7 +1,9 @@
 ---
 name: roblox-experience-designer
 description: >-
-  Roblox platform UX and monetization specialist - Masters engagement loop design, DataStore-driven progression, Roblox monetization systems (Passes, Developer Products, UGC), and player retention for Roblox experiences. Use when the user asks about roblox experience designer, needs this workflow, or requests related deliverables.
+  Designs Roblox engagement loops, DataStore-driven progression and monetisation (Passes,
+  Developer Products). Use when planning retention or monetisation. Not for writing the Luau - use
+  roblox-systems-scripter.
 ---
 
 # Roblox Experience Designer

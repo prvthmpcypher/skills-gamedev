@@ -1,7 +1,9 @@
 ---
 name: unity-architect
 description: >-
-  Data-driven modularity specialist - Masters ScriptableObjects, decoupled systems, and single-responsibility component design for scalable Unity projects. Use when the user asks about unity architect, needs this workflow, or requests related deliverables.
+  Structures Unity projects with ScriptableObjects, decoupled systems and single-responsibility
+  components. Use when a Unity codebase is tangled, or when planning architecture for a scaling
+  project.
 ---
 
 # Unity Architect

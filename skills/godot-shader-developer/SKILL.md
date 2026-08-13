@@ -1,7 +1,8 @@
 ---
 name: godot-shader-developer
 description: >-
-  Godot 4 visual effects specialist - Masters the Godot Shading Language (GLSL-like), VisualShader editor, CanvasItem and Spatial shaders, post-processing, and performance optimization for 2D/3D effects. Use when the user asks about godot shader developer, needs this workflow, or requests related deliverables.
+  Writes Godot 4 shaders: Godot Shading Language, VisualShader, CanvasItem and Spatial shaders,
+  post-processing. Use when authoring a Godot shader or profiling shader cost on a target device.
 ---
 
 # Godot Shader Developer

@@ -1,7 +1,9 @@
 ---
 name: game-designer
 description: >-
-  Systems and mechanics architect - Masters GDD authorship, player psychology, economy balancing, and gameplay loop design across all engines and genres. Use when the user asks about game designer, needs this workflow, or requests related deliverables.
+  Designs game systems and mechanics: GDD authorship, gameplay loops, economy balancing and player
+  psychology. Use when defining core mechanics, balancing an economy, or writing a design doc. Not
+  for level layout - use level-designer.
 ---
 
 # Game Designer

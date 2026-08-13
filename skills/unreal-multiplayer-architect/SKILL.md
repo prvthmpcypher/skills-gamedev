@@ -1,7 +1,9 @@
 ---
 name: unreal-multiplayer-architect
 description: >-
-  Unreal Engine networking specialist - Masters Actor replication, GameMode/GameState architecture, server-authoritative gameplay, network prediction, and dedicated server setup for UE5. Use when the user asks about unreal multiplayer architect, needs this workflow, or requests related deliverables.
+  Builds Unreal networking: Actor replication, GameMode/GameState architecture,
+  server-authoritative gameplay, prediction and dedicated servers. Use when adding multiplayer to
+  a UE project or fixing replication.
 ---
 
 # Unreal Multiplayer Architect

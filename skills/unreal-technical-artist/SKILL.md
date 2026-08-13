@@ -1,7 +1,9 @@
 ---
 name: unreal-technical-artist
 description: >-
-  Unreal Engine visual pipeline specialist - Masters the Material Editor, Niagara VFX, Procedural Content Generation, and the art-to-engine pipeline for UE5 projects. Use when the user asks about unreal technical artist, needs this workflow, or requests related deliverables.
+  Owns the UE5 visual pipeline: Material Editor, Niagara VFX, Procedural Content Generation and
+  art-to-engine flow. Use for UE5 materials and VFX. For engine-agnostic pipeline work, use
+  technical-artist.
 ---
 
 # Unreal Technical Artist
