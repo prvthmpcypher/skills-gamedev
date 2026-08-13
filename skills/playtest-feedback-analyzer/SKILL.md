@@ -25,7 +25,7 @@ Players are a reliable source for **what they felt** (frustrated, confused, bore
 - Combine **think-aloud observation** (watching players play, noting where they hesitate/backtrack/express frustration in real time) with **post-session surveys** — observation catches what players don't think to report; surveys catch overall sentiment and specific opinions observation alone misses.
 - Ask specific, behavior-anchored survey questions ("Was there a point where you weren't sure what to do next? Where?") rather than only general ones ("Did you enjoy the level?"), since specific questions produce more actionable data.
 
-## What NOT to do
+## Anti-Patterns & Constraints
 
 - Don't take a single player's stated diagnosis at face value without checking it against behavioral evidence when available.
 - Don't recommend a design change based on one outlier data point presented as if it were a clear pattern.
@@ -46,7 +46,9 @@ Players are a reliable source for **what they felt** (frustrated, confused, bore
 ```
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Every input figure traced to a named source with an as-of date.
+- [ ] Arithmetic reconciles: components tie to totals, periods tie to the annual figure.
+- [ ] Each assumption stated explicitly with a plausible range, not a single point.
+- [ ] Sensitivity shown on the three drivers with the largest effect on the result.
+- [ ] Units, currency, and time period labelled on every figure presented.

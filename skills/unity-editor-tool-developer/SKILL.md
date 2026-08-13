@@ -31,12 +31,14 @@ description: >-
 - Stay specific to the Unity Editor Tool Developer workflow; avoid generic filler.
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Code compiles and all automated tests and typechecks pass without new warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly rather than assumed.
+- [ ] No hardcoded secrets, credentials, or insecure defaults introduced.
+- [ ] Changes are covered by a test that fails without them.
 
 ## Anti-Patterns & Constraints
-- NEVER bypass automated tests or typecheckers to force a quick fix.
-- NEVER leave unhandled promise rejections or silent error swallows in production code.
-- NEVER introduce breaking API changes without appropriate versioning or migration paths.
+
+- NEVER weaken or skip a failing test to make a change land.
+- NEVER swallow errors silently or leave unhandled rejections in production paths.
+- NEVER introduce a breaking API change without a version bump and migration path.

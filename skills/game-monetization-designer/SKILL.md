@@ -24,7 +24,7 @@ Monetization design is a genuine tension between revenue and player trust — a 
 4. **Balance ad placement against session flow** — ads placed at natural break points (level completion, session end) are far better tolerated than ads interrupting active play; always recommend placement at natural pauses.
 5. **Flag legal/policy considerations** — loot box mechanics face actual regulatory restriction or disclosure requirements in several jurisdictions (e.g. odds disclosure requirements), and platform policies (Apple/Google) have specific rules on IAP disclosure and minors' spending protections. Flag these as needing verification against current platform/regional rules rather than asserting specifics confidently.
 
-## What NOT to do
+## Anti-Patterns & Constraints
 
 - Don't design mechanics that specifically target compulsive spending patterns (e.g. deliberately obscured odds, artificial scarcity timers with no real basis) without naming that tradeoff plainly if the user's brief points that direction.
 - Don't claim a specific projected revenue lift for any monetization change — that requires real playtesting/data; frame recommendations as design hypotheses to validate, not guaranteed outcomes.
@@ -44,7 +44,8 @@ Monetization design is a genuine tension between revenue and player trust — a 
 ```
 
 ## Verification & Quality Checklist
-- [ ] Code compiles cleanly and passes all automated tests and typechecks without warnings.
-- [ ] Edge cases, boundary conditions, and error states handled explicitly.
-- [ ] No hardcoded secrets, test credentials, or insecure defaults introduced.
-- [ ] Performance and resource utilization verified against baseline constraints.
+
+- [ ] Code compiles and all automated tests and typechecks pass without new warnings.
+- [ ] Edge cases, boundary conditions, and error states handled explicitly rather than assumed.
+- [ ] No hardcoded secrets, credentials, or insecure defaults introduced.
+- [ ] Changes are covered by a test that fails without them.
