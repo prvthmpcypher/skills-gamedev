@@ -1,2 +1,5 @@
-* text=auto eol=lf
+# Normalise to LF in the repository; let each platform check out natively.
+# Do not force eol=lf: it conflicts with core.autocrlf=true on Windows and
+# leaves every file reading as modified.
+* text=auto
 *.skill binary
