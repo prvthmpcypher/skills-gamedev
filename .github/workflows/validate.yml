@@ -1,0 +1,37 @@
+name: validate
+
+# Validation lives in the hub so all 13 repos check the same rules. Both repos
+# are public, so this needs no token.
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          path: skills-gamedev
+
+      - name: Check out the hub for its validator
+        uses: actions/checkout@v4
+        with:
+          repository: prvthmpcypher/skillary
+          path: skillary
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - run: pip install pyyaml
+
+      - name: Skills validate
+        working-directory: skillary
+        run: python scripts/validate.py --repo gamedev
+
+      - name: Bundles match their source
+        working-directory: skillary
+        run: python scripts/bundle.py --check
