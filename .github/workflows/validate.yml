@@ -19,7 +19,7 @@ jobs:
       - name: Check out the hub for its validator
         uses: actions/checkout@v4
         with:
-          repository: prvthmpcypher/skillary
+          repository: poorvith-mp/skillary
           path: skillary
 
       - uses: actions/setup-python@v5
